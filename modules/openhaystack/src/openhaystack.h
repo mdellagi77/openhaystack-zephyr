@@ -10,8 +10,8 @@
 #ifndef _OPENHAYSTACK_H_
 #define _OPENHAYSTACK_H_
 
-#include <bluetooth/addr.h>
-#include <bluetooth/bluetooth.h>
+#include <zephyr/bluetooth/addr.h>
+#include <zephyr/bluetooth/bluetooth.h>
 
 /*
  * Advertising parameters for the Offline Finding advertisement
